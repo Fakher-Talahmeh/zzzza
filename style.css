@@ -128,14 +128,9 @@ header nav ul li a:hover{
         clip-path: circle(40% at bottom );
     }
 }
-@media (min-width:701px) and (max-width:1000){
+@media (max-width:1100px){
     .content .image img{
-        width: 200px;
-    }
-}
-@media (min-width:1010px) and (max-width:1100px){
-    .content .image img{
-        width: 250px;
+        width:80%;
     }
 }
 
